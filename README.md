@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!_My_Sandbox!&fontSize=50)
+### Hi there 👋
+
+Just my little playground, or maybe a sandbox.
+
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,6,20&height=3)
