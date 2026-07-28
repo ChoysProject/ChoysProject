@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ChoysProject/ChoysProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hi there 👋&fontSize=50)
